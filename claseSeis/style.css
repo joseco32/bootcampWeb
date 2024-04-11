@@ -1,0 +1,23 @@
+.header-top {
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+.blue-text {
+    color: blue;
+}
+.img {
+    width: 100%;
+    border-radius: 50%;
+}
+.red-text {
+    color: red;
+}
+.style-link {
+    color: green;
+    text-decoration: underline;
+}
+.style-video {
+    width: 600px;
+    height: 400px;
+}
